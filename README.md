@@ -28,7 +28,8 @@ We replace the hidden layers of a classical DQN with a **Variational Quantum Cir
 | Physics Constraint | ❌ None | ✅ Hamiltonian H = T + V |
 | Gradient Stability | Standard | Data Re-Uploading (Barren Plateau fix) |
 
-![Results](pi_qdqn_results.png)
+![Results]
+<img width="1202" height="695" alt="Graph_Cartpole_agent" src="https://github.com/user-attachments/assets/46f935c0-3c4c-43f1-a45f-42fd0e7275e0" />
 
 ---
 
